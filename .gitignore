@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+**/venv/
+**/.venv/
+**/__pycache__/
+*.py[cod]
+**/node_modules/
+**/build/
+backend/uploads/*
+!backend/uploads/.gitkeep
+.DS_Store

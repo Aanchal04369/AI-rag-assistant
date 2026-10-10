@@ -1,0 +1,11 @@
+{
+  "model_name": "finetuned_model",
+  "base_model": "distilbert-base-uncased",
+  "example_count": 3,
+  "bertscore_precision": 0.0056,
+  "bertscore_recall": 0.0648,
+  "bertscore_f1": 0.0101,
+  "token_f1": 0.0101,
+  "evaluation_timestamp": "2026-09-07T21:11:08.033591+00:00",
+  "warning": "Sample size (3) is too small for reliable metrics."
+}
